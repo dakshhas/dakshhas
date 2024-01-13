@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dakshhas and not anything serious
+- 👋 Hi, I’m daksh and not anything serious
 
 <!---
 dakshhas/dakshhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
